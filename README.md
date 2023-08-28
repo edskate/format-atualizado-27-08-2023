@@ -29,12 +29,12 @@
 
 # Words program 003
 # weekly tasks and routines
-- My house is beautiful.
-- My cat is very hairy
-- My dog is very aggressive
-- My job is the best in the world
-- My pleasure today is programming
-- But today, my work as a cover dancer is a routine of work,
-- today focused on the details of the choriography.
-- My task for the week is to rehearse beginners ,
-- {for development in modern dances.}
+- My house is beautiful.🏡
+- My cat is very hairy🐩
+- My dog is very aggressive🐕
+- My job is the best in the world🗺
+- My pleasure today is programming🖥
+- But today, my work as a cover dancer is a routine of work,🕺
+- today focused on the details of the choriography.🕺💃
+- My task for the week is to rehearse beginners ,🕺💃🕴🛠🧾🗃
+- {for development in modern dances.}💻🧾🙌👨‍💻📷🤳⚙
