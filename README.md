@@ -47,5 +47,4 @@
 - Talk about your day-to-day life 🤳👨‍🏭💑😸🚴‍♀️
 - What´s your favourite activity?💃🏃‍♂️🏑📷🖥💻
 - What´s your favourite food ?🥭🌭🥑🍌🍍🍉🎂🍦🍨🍰
-- 
-
+  
