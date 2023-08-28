@@ -13,3 +13,4 @@
 - you can buy 💲
 - let's buy 🚶‍♂️
 - let's go home🏡
+- Let's buy a car🚗
