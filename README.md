@@ -38,3 +38,14 @@
 - today focused on the details of the choriography.🕺💃
 - My task for the week is to rehearse beginners ,🕺💃🕴🛠🧾🗃
 - {for development in modern dances.}💻🧾🙌👨‍💻📷🤳⚙
+
+## Easy phrases 
+- Hello, How are you? 👨‍🦱
+- I`m fine 😄
+- What we have today ☀🌤⛅
+- What can we talk about?📞🦻
+- Talk about your day-to-day life 🤳👨‍🏭💑😸🚴‍♀️
+- What´s your favourite activity?💃🏃‍♂️🏑📷🖥💻
+- What´s your favourite food ?🥭🌭🥑🍌🍍🍉🎂🍦🍨🍰
+- 
+
