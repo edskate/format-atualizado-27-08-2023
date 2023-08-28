@@ -1,7 +1,8 @@
 # format atualizado 27-08-2023
 
-   # Everything is possible in life
-    what do you mean, brother
+ # Everything is possible in life
+
+ # what do you mean, brother
 - try brother
 - try even if you don't know
 - you won't sleep now, you can't fool me 
@@ -15,4 +16,3 @@
 - Too much repetition
 - A lot of determination
 - I'll take an uber -> vou de uber
- 
