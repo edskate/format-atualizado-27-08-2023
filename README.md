@@ -16,3 +16,12 @@
 - Too much repetition
 - A lot of determination
 - I'll take an uber -> vou de uber
+- you´re already asleep ?
+- you're already sleeping ?
+- Or are you studying ?
+- Or working ?
+- Well, I'm studying.
+- I'm studying eighteen hours a day 
+- But I'm fine, thank you.
+- Every day I schedule eight to ten hours a day.
+
