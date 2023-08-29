@@ -47,3 +47,9 @@
 - you have to think🤔
 - you just have to think🤔
 - you have it in your house🏡
+  
+## Wonderful 01 =>Maravilhoso, Maravilhosa
+## =>02 Sinônimos
+- Beautiful😎
+- amazing⛷🏋️‍♂️
+- incredible🤸‍♂️
