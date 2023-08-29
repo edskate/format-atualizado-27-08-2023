@@ -40,3 +40,10 @@
 - I'm not 
 - I've been sick a lot😷🤕 in bed🛏 that's why I don't go out
 - medicine is too expensive- 😤😷🤕
+  
+# Furniture
+- you have it in your house🏠
+- think🤔
+- you have to think🤔
+- you just have to think🤔
+- you have it in your house🏡
