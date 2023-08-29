@@ -47,5 +47,17 @@
 - What can we talk about?📞🦻
 - Talk about your day-to-day life 🤳👨‍🏭💑😸🚴‍♀️
 - What´s your favourite activity?💃🏃‍♂️🏑📷🖥💻
-- What´s your favourite food ?🥭🌭🥑🍌🍍🍉🎂🍦🍨🍰
-  
+- What´s your favourite food ?🥭🌭🥑🍌  
+
+
+# Theme
+- Birds
+- snakes🐍
+- elephant
+- monkey🐵
+- dog🐶🐕🐩🌭 
+- Cat 🐱🐈😸 
+- Horse🐎🐴 
+- Spider..🕷🕸
+- ant 🐜
+- bee🐝
