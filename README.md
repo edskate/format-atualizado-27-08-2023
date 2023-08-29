@@ -61,3 +61,15 @@
 - Spider..🕷🕸
 - ant 🐜
 - bee🐝
+
+# Theme I have
+- I have a bird
+- I have snake
+- I have a elephant
+- I have a monkey
+- I have a dog 
+- I have a cat
+- I have a horse
+- I have a Spider
+- I have  a ant
+- I have a bee
