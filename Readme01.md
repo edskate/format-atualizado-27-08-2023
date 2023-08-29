@@ -53,3 +53,9 @@
 - Beautiful😎
 - amazing⛷🏋️‍♂️
 - incredible🤸‍♂️
+
+# Day to Day
+- edy => hi
+- edy => I'm fine thanks👍🙏
+- Edy => it's been very cold this week🧊
+- Edy => Can i have your name ?
