@@ -28,3 +28,15 @@
 - avocado🥑
 - pineapple🍍
 - I eat rice with meat 🌾🍖
+- walking with my sister - in the cold🧊 
+- my god😲😱
+- I can imagine
+- today was very difficult 😯 
+- cold and the body doesn't respond much 👩‍🚒👣
+- I mean my body in dance🕺
+- how many clothes are you wearing in this cold ?🧥
+- one two three
+- yes I do
+- I'm not 
+- I've been sick a lot😷🤕 in bed🛏 that's why I don't go out
+- medicine is too expensive- 😤😷🤕
