@@ -16,14 +16,15 @@
 - Let's buy a car🚗
 - I'm studying with drawings📔
 
-
 # Object 01
+
 - Suitcase 🧳
 - trousers👖
 - blouse🧥
 - ball⚽
 
 ## Food 02
+
 - avocado🥑
 - pineapple🍍
 - I eat rice with meat 🌾🍖
