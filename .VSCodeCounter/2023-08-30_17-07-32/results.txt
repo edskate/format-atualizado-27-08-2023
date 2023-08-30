@@ -1,0 +1,36 @@
+Date : 2023-08-30 17:07:32
+Directory : c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023
+Total : 9 files,  483 codes, 0 comments, 44 blanks, all 527 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| HTML     |          5 |        335 |          0 |         21 |        356 |
+| Markdown |          2 |        131 |          0 |         20 |        151 |
+| JSON     |          1 |          9 |          0 |          1 |         10 |
+| CSS      |          1 |          8 |          0 |          2 |         10 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                             |          9 |        483 |          0 |         44 |        527 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                      | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\README.md    | Markdown |         79 |          0 |         11 |         90 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\Readme01.md  | Markdown |         52 |          0 |          9 |         61 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\cspell.json  | JSON     |          9 |          0 |          1 |         10 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\index01.html | HTML     |         52 |          0 |          3 |         55 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\index02.html | HTML     |         61 |          0 |          9 |         70 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\index03.html | HTML     |         53 |          0 |          2 |         55 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\index04.html | HTML     |         92 |          0 |          3 |         95 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\index05.html | HTML     |         77 |          0 |          4 |         81 |
+| c:\Users\ED M J\Documents\format atualizado 27-08-2023\format-atualizado-27-08-2023\format-atualizado-27-08-2023\style.css    | CSS      |          8 |          0 |          2 |         10 |
+| Total                                                                                                                         |          |        483 |          0 |         44 |        527 |
++-------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
