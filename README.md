@@ -73,3 +73,18 @@
 - I have a Spider
 - I have  a ant
 - I have a bee
+
+# conversations
+- I asked
+- do you want to learn the course📚
+- I can help you🙏👍
+- brother thinks🤸‍♂️✍
+- it's very easy🚶‍♂️🕺✍
+- it will only take two months
+- we talk about it every day🗣
+- please 
+- why don't you want to
+- don't be nervous don't be nervous😤😡
+- you're angry with me
+- it's early😴
+- you're sick😷
